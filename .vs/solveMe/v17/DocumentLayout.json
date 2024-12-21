@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SEM_5_WAD_TERMWORK_PROJECTS_SOLVEME_SOLVEME_APP_DATA_SOLVEMEDB.MDF/True/SqlTable/dbo.Problem.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SEM_5_WAD_TERMWORK_PROJECTS_SOLVEME_SOLVEME_APP_DATA_SOLVEMEDB.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SEM_5_WAD_TERMWORK_PROJECTS_SOLVEME_SOLVEME_APP_DATA_SOLVEMEDB.MDF/True/SqlTable/dbo.Category.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|d:\\sem-5\\wad\\termwork\\projects\\solveme\\solveme\\myquestionspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|solutionrelative:solveme\\myquestionspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|d:\\sem-5\\wad\\termwork\\projects\\solveme\\solveme\\myquestionspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|solutionrelative:solveme\\myquestionspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SEM_5_WAD_TERMWORK_PROJECTS_SOLVEME_SOLVEME_APP_DATA_SOLVEMEDB.MDF/True/SqlTable/dbo.Solution.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|d:\\sem-5\\wad\\termwork\\projects\\solveme\\solveme\\aboutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|solutionrelative:solveme\\aboutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|d:\\sem-5\\wad\\termwork\\projects\\solveme\\solveme\\viewanswers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|solutionrelative:solveme\\viewanswers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveme\\css\\view_answers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|solutionrelative:solveme\\css\\view_answers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveme\\viewanswers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|solutionrelative:solveme\\viewanswers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveme\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|solutionrelative:solveme\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveme\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|solutionrelative:solveme\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveme\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3193898-3617-4054-8C1C-F3EA231C7DB4}|solveMe\\solveMe.csproj|solutionrelative:solveme\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyQuestionsPage.aspx.cs",
+              "DocumentMoniker": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\MyQuestionsPage.aspx.cs",
+              "RelativeDocumentMoniker": "solveMe\\MyQuestionsPage.aspx.cs",
+              "ToolTip": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\MyQuestionsPage.aspx.cs",
+              "RelativeToolTip": "solveMe\\MyQuestionsPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:03:07.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyQuestionsPage.aspx",
+              "DocumentMoniker": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\MyQuestionsPage.aspx",
+              "RelativeDocumentMoniker": "solveMe\\MyQuestionsPage.aspx",
+              "ToolTip": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\MyQuestionsPage.aspx",
+              "RelativeToolTip": "solveMe\\MyQuestionsPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T09:02:57.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Category [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SEM_5_WAD_TERMWORK_PROJECTS_SOLVEME_SOLVEME_APP_DATA_SOLVEMEDB.MDF/True/SqlTable/dbo.Category.sql",
+              "ToolTip": "dbo.Category [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T08:31:58.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Problem [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SEM_5_WAD_TERMWORK_PROJECTS_SOLVEME_SOLVEME_APP_DATA_SOLVEMEDB.MDF/True/SqlTable/dbo.Problem.sql",
+              "ToolTip": "dbo.Problem [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T08:31:52.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SEM_5_WAD_TERMWORK_PROJECTS_SOLVEME_SOLVEME_APP_DATA_SOLVEMEDB.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T08:16:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Solution [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SEM_5_WAD_TERMWORK_PROJECTS_SOLVEME_SOLVEME_APP_DATA_SOLVEMEDB.MDF/True/SqlTable/dbo.Solution.sql",
+              "ToolTip": "dbo.Solution [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T08:31:48.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutPage.aspx",
+              "DocumentMoniker": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\AboutPage.aspx",
+              "RelativeDocumentMoniker": "solveMe\\AboutPage.aspx",
+              "ToolTip": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\AboutPage.aspx",
+              "RelativeToolTip": "solveMe\\AboutPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T08:15:19.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "view_answers.css",
+              "DocumentMoniker": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\css\\view_answers.css",
+              "RelativeDocumentMoniker": "solveMe\\css\\view_answers.css",
+              "ToolTip": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\css\\view_answers.css",
+              "RelativeToolTip": "solveMe\\css\\view_answers.css",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T02:22:45.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewAnswers.aspx.cs",
+              "DocumentMoniker": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\ViewAnswers.aspx.cs",
+              "RelativeDocumentMoniker": "solveMe\\ViewAnswers.aspx.cs",
+              "ToolTip": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\ViewAnswers.aspx.cs",
+              "RelativeToolTip": "solveMe\\ViewAnswers.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:22:34.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewAnswers.aspx",
+              "DocumentMoniker": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\ViewAnswers.aspx",
+              "RelativeDocumentMoniker": "solveMe\\ViewAnswers.aspx",
+              "ToolTip": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\ViewAnswers.aspx",
+              "RelativeToolTip": "solveMe\\ViewAnswers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T02:21:00.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\css\\index.css",
+              "RelativeDocumentMoniker": "solveMe\\css\\index.css",
+              "ToolTip": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\css\\index.css",
+              "RelativeToolTip": "solveMe\\css\\index.css",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-03T18:55:50.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "solveMe\\Index.aspx.cs",
+              "ToolTip": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\Index.aspx.cs",
+              "RelativeToolTip": "solveMe\\Index.aspx.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAowJQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:55:36.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\Index.aspx",
+              "RelativeDocumentMoniker": "solveMe\\Index.aspx",
+              "ToolTip": "D:\\SEM-5\\WAD\\TermWork\\Projects\\solveMe\\solveMe\\Index.aspx",
+              "RelativeToolTip": "solveMe\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-03T18:53:43.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="solveMe.Site1" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title></title>
+    <link href="css/site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="navbar">
+            <!-- Logo aligned to the left -->
+            <div class="navbar-logo">
+                <a href="Index.aspx">solveMe</a>
+            </div>
+
+            <!-- Links aligned to the center -->
+            <div class="navbar-links">
+                <div>
+                    <a href="Index.aspx">Home</a>
+                    <a href="AboutPage.aspx">About</a>
+                    <% if (Session["CurrUser"] != null) { %>
+                        <a href="UploadQuestion.aspx">Ask doubt</a>
+                        <a href="MyQuestionsPage.aspx">My Questions</a>
+                    <% } %>
+                </div>
+            </div>
+
+            <!-- Buttons aligned to the right -->
+            <div class="navbar-buttons">
+                <% if (Session["CurrUser"] != null) { %>
+                    <asp:Button runat="server" ID="btnLogout" class="btn" OnClick="btnLogout_Click" Text="Logout"/>
+                <% } else { %>
+                    <a class="btn" href="SignUp.aspx">SignUp</a>
+                    <a class="btn" href="Login.aspx">Login</a>
+                <% } %>
+            </div>
+        </div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

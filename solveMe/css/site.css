@@ -1,0 +1,151 @@
+﻿/* Reset some default styles */
+body, h1, p, a {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar container */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Adds a soft shadow for depth */
+    position: sticky; /* Ensures the shadow displays properly */
+    top: 0;
+    z-index: 1000; /* Keeps the navbar above other elements */
+    background-color: #fff; /* White background for a clean look */
+}
+
+/* Navbar logo - align to the left */
+.navbar-logo {
+    flex: 1; /* Logo takes up the leftmost space */
+}
+
+/* Navbar logo */
+.navbar-logo a {
+    color: #fff;
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif; /* Modern font */
+    letter-spacing: 2px;
+    padding: 10px 15px;
+    border: 3px solid transparent;
+    border-radius: 5px;
+    background: linear-gradient(to right, #1bccf4, #016586); /* Gradient background */
+    display: inline-block;
+    transition: all 0.5s ease-in-out;
+}
+
+.navbar-logo a:hover {
+    background: linear-gradient(to right, #9b59b6, #e74c3c); /* Purple-pink combo */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transform: scale(1.05); /* Slight zoom effect */
+}
+
+/* Navbar links container - centered */
+.navbar-links {
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+    .navbar-links div {
+        display: flex;
+        gap: 20px;
+    }
+
+        /* Navbar links styling */
+        .navbar-links div a {
+            color: black;
+            text-decoration: none;
+            font-size: 18px;
+            padding: 10px 15px;
+            border-radius: 5px;
+            transition: all 0.4s ease-in-out;
+            position: relative; /* Position needed for hover effect */
+            overflow: hidden; /* Ensures hover effect is contained within the link */
+        }
+
+            /* Default hover effect */
+            .navbar-links div a:hover {
+                background-color: #eafee4; /* Light green background on hover */
+                color: #4CAF50; /* Text color change to green on hover */
+            }
+
+            /* Add cool sliding effect on hover */
+            .navbar-links div a::before {
+                content: "";
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                height: 3px; /* Line thickness */
+                background-color: #4CAF50; /* Line color */
+                transform: translateX(-100%);
+                transition: transform 0.4s ease-in-out;
+            }
+
+            .navbar-links div a:hover::before {
+                transform: translateX(0); /* Slide the line in on hover */
+            }
+
+            /* Active link styling */
+            .navbar-links div a.active {
+                background-color: #4CAF50; /* Green background for active link */
+                color: white; /* White text for contrast */
+                font-weight: bold; /* Bold text to emphasize active link */
+                border-radius: 5px; /* Rounded edges for consistency */
+            }
+
+                .navbar-links div a.active::before {
+                    content: "";
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 3px; /* Line thickness */
+                    background-color: white; /* White line for active link */
+                    transform: translateX(0); /* Line visible for active link */
+                    transition: none; /* No sliding effect for active link */
+                }
+
+/* Buttons container - aligned to the right */
+.navbar-buttons {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end; /* Align buttons to the right */
+    gap: 10px; /* Space between buttons */
+}
+
+.navbar-buttons .btn {
+    background: linear-gradient(to right, #4CAF50, #2A9D8F);
+    color: white;
+    font-size: 16px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    outline: none;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding:5px;
+    text-decoration:none;
+}
+
+/* Hover effect for buttons */
+.navbar-buttons .btn:hover {
+    background: white;
+    color: #4CAF50;
+    border: 2px solid #4CAF50;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navbar-buttons .btn:focus {
+    outline: none;
+}

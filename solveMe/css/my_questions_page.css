@@ -1,0 +1,74 @@
+﻿/* General container for My Questions page */
+.my-questions-container {
+    width: 80%;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #f5f7fa;
+    border-radius: 12px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header styling */
+h1 {
+    text-align: center;
+    font-size: 2.2em;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* Individual question card styling */
+.question-card {
+    background-color: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+    transition: box-shadow 0.3s ease;
+}
+
+    .question-card:hover {
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Question title styling */
+    .question-card h3 {
+        font-size: 1.5em;
+        color: #34495e;
+        margin: 0;
+        margin-bottom: 10px;
+    }
+
+    /* Category and date styling */
+    .question-card p {
+        color: #7f8c8d;
+        font-size: 0.95em;
+        margin-bottom: 15px;
+    }
+
+/* Button to view answers */
+.btn-view-answers {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2980b9;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 0.95em;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-view-answers:hover {
+        background-color: #3498db;
+    }
+
+/* Message displayed when no questions are uploaded */
+.no-questions-msg {
+    text-align: center;
+    font-size: 1.2em;
+    color: #7f8c8d;
+    margin-top: 30px;
+}

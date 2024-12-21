@@ -1,0 +1,112 @@
+﻿/* General container for the About page */
+.about-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f9f9fc;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header section styling */
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    font-size: 2.5em;
+    font-weight: 600;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* About section container */
+.about-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+
+.about-image {
+    width: 45%;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Text section inside about section */
+.about-text {
+    width: 50%;
+    color: #555;
+    line-height: 1.7;
+    font-size: 1.1em;
+}
+
+    .about-text .brand-name {
+        color: #2980b9;
+        font-weight: 600;
+        font-size: 1.2em;
+    }
+
+/* Team section styles */
+.team-section {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+    .team-section h2 {
+        font-size: 2em;
+        color: #34495e;
+        margin-bottom: 20px;
+        font-weight: 600;
+    }
+
+/* Team grid to align team members */
+.team-grid {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+/* Individual team card styles */
+.team-card {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    text-align: center;
+    width: 250px;
+}
+
+    .team-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    }
+
+/* Team member photo styling */
+.team-photo {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Team member name styling */
+.team-card h3 {
+    margin: 0;
+    color: #2c3e50;
+    font-size: 1.3em;
+    margin-bottom: 5px;
+}
+
+/* Team member position styling */
+.team-card p {
+    color: #7f8c8d;
+    font-size: 1em;
+    font-weight: 400;
+}
